@@ -1,10 +1,10 @@
-# [markdentoom.com](https://markdentoom.com/)
+# [http://markdentoom.com/](http://markdentoom.com/)
 
-My portfolio site v2
+My portfolio site
 
 ## Getting Started
 
-View the site [here](https://markdentoom.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20markdentoom.com%20is%20down!) and I will fix it.
+View the site [here](http://markdentoom.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20markdentoom.com%20is%20down!) and I will fix it.
 
 ## Built With
 * HTML - Frontend visualization
