@@ -2,6 +2,8 @@
 
 My portfolio site
 
+Note: the custom URL is in the process of being verified. View a preview of the project [here](https://markdentoom.github.io/markdentoom.com/)
+
 ## Getting Started
 
 View the site [here](http://markdentoom.com/). If the site is down, [send me an email](mailto:markdentoom@hotmail.com?subject=[GitHub]%20markdentoom.com%20is%20down!) and I will fix it.
