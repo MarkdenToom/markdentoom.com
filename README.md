@@ -1,4 +1,4 @@
-# [markdentoom.github.io](https://markdentoom.com/)
+# [markdentoom.com](https://markdentoom.com/)
 
 My portfolio site v2
 
