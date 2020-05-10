@@ -1,6 +1,6 @@
 # [http://markdentoom.com/](http://markdentoom.com/)
 
-My portfolio site. View the site [here](http://markdentoom.com/).
+My portfolio site.
 
 ## Getting Started
 
