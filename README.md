@@ -1,8 +1,6 @@
 # [http://markdentoom.com/](http://markdentoom.com/)
 
-My portfolio site
-
-Note: the custom URL is in the process of being verified. View a preview of the project [here](http://markdentoom.com/)
+My portfolio site. View the site [here](http://markdentoom.com/).
 
 ## Getting Started
 
