@@ -2,7 +2,7 @@
 
 My portfolio site
 
-Note: the custom URL is in the process of being verified. View a preview of the project [here](https://markdentoom.github.io/markdentoom.com/)
+Note: the custom URL is in the process of being verified. View a preview of the project [here](http://markdentoom.com/)
 
 ## Getting Started
 
