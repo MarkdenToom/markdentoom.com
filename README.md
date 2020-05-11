@@ -23,4 +23,4 @@ See also the list of [contributors](https://github.com/MarkdenToom/markdentoom.c
 
 ## License
 
-This project is licensed under the Unlicense - see the [LICENSE.md](https://github.com/MarkdenToom/markdentoom.com/blob/master/LICENSE) file for details.
+This project is licensed under the Unlicense - see the [LICENSE](https://github.com/MarkdenToom/markdentoom.com/blob/master/LICENSE) file for details.
